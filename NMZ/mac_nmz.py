@@ -1,3 +1,4 @@
+''' Use general nmz_script now! This is left for reference for now'''
 from Quartz.CoreGraphics import CGEventCreateMouseEvent
 from Quartz.CoreGraphics import CGEventPost
 from Quartz.CoreGraphics import kCGEventMouseMoved
